@@ -1,0 +1,4 @@
+ursina
+opencv-python
+mediapipe==0.10.14
+# kociemba   (optional, needs C++ build tools on Windows)
